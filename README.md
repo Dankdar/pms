@@ -3,7 +3,7 @@ Simple approach pharmacy managemnent sys. built in native php.
 22-10622 Dar.
 Forman Christian College University. 
 
-1. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+1. Paste inside root directory/ where you have installed xammp i.e local disk C: OR drive D: OR drive E: etc.. then paste in: xampp/htdocs, 
 
 2.Import pms.sql file(given inside the zip package in SQL file folder)
 
