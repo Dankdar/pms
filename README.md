@@ -1,2 +1,2 @@
 # pms
-pharmacy managemnent sys 
+Simple approach pharmacy managemnent sys. built in native php.
